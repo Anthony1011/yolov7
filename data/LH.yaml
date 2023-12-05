@@ -1,0 +1,10 @@
+train: ./dataset/LH/train.txt
+val: ./dataset/LH/val.txt
+test: ./dataset/LH/test.txt
+
+
+# number of classes
+nc: 2
+
+# class names
+names: ['Needle', 'Line']

@@ -1,0 +1,14 @@
+/home/itri/yolov7/dataset/LH/images/val/59.jpg
+/home/itri/yolov7/dataset/LH/images/val/48.jpg
+/home/itri/yolov7/dataset/LH/images/val/54.jpg
+/home/itri/yolov7/dataset/LH/images/val/57.jpg
+/home/itri/yolov7/dataset/LH/images/val/55.jpg
+/home/itri/yolov7/dataset/LH/images/val/53.jpg
+/home/itri/yolov7/dataset/LH/images/val/47.jpg
+/home/itri/yolov7/dataset/LH/images/val/56.jpg
+/home/itri/yolov7/dataset/LH/images/val/52.jpg
+/home/itri/yolov7/dataset/LH/images/val/58.jpg
+/home/itri/yolov7/dataset/LH/images/val/51.jpg
+/home/itri/yolov7/dataset/LH/images/val/46.jpg
+/home/itri/yolov7/dataset/LH/images/val/50.jpg
+/home/itri/yolov7/dataset/LH/images/val/49.jpg
