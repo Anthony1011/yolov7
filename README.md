@@ -1,4 +1,4 @@
-# Official YOLOv7
+# YOLOv7
 
 This repository aims to develop more function and build a Multi-task model
 
